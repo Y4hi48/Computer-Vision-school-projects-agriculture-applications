@@ -1,1 +1,1 @@
-[View the PDF](./"projet CP agriculture tableaux des resultats.pdf.pdf")
+[View the PDF](./"projet CP agriculture tableaux des resultats.pdf")
